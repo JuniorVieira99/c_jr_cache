@@ -1,0 +1,115 @@
+{
+	"configurations" : 
+	[
+		{
+			"abstractTargets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "Catch2::Catch2::@a44f0ac069e85531cdee",
+					"jsonFile" : "target-Catch2__Catch2-Debug-123d4ebd2e8f6b2cce8f.json",
+					"name" : "Catch2::Catch2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "Catch2::Catch2WithMain::@a44f0ac069e85531cdee",
+					"jsonFile" : "target-Catch2__Catch2WithMain-Debug-dc7c70204c7f4378eb00.json",
+					"name" : "Catch2::Catch2WithMain",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "JrCache::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-JrCache-Debug-6c0d60b8af0d0e3a9a4a.json",
+					"name" : "JrCache",
+					"projectIndex" : 0
+				}
+			],
+			"directories" : 
+			[
+				{
+					"abstractTargetIndexes" : 
+					[
+						2
+					],
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-b5805d5c08fd3d92def4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"abstractTargetIndexes" : 
+					[
+						0,
+						1
+					],
+					"build" : "tests",
+					"jsonFile" : "directory-tests-Debug-a5311135b768b6d469cf.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "tests",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"abstractTargetIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "JrCache",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "JrCacheTests::@a44f0ac069e85531cdee",
+					"jsonFile" : "target-JrCacheTests-Debug-2046965e6bdd57552672.json",
+					"name" : "JrCacheTests",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug",
+		"source" : "C:/Users/Agnal/Documents/Coding/C++/jr_cache"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 11
+	}
+}

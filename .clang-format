@@ -1,0 +1,48 @@
+# Dimension Engine code style. Run `clang-format -i <file>` or enable format-on-save.
+# Full option reference: https://clang.llvm.org/docs/ClangFormatStyleOptions.html
+---
+Language: Cpp
+BasedOnStyle: LLVM
+Standard: c++20
+
+IndentWidth: 4
+TabWidth: 4
+UseTab: Never
+ColumnLimit: 100
+ContinuationIndentWidth: 4
+AccessModifierOffset: -4
+IndentCaseLabels: false
+NamespaceIndentation: None
+FixNamespaceComments: true
+
+PointerAlignment: Left
+ReferenceAlignment: Left
+DerivePointerAlignment: false
+
+BreakBeforeBraces: Attach
+AllowShortFunctionsOnASingleLine: Inline
+AllowShortIfStatementsOnASingleLine: Never
+AllowShortLoopsOnASingleLine: false
+AllowShortBlocksOnASingleLine: Never
+AllowShortCaseLabelsOnASingleLine: false
+AlwaysBreakTemplateDeclarations: Yes
+BreakConstructorInitializers: BeforeColon
+PackConstructorInitializers: NextLine
+
+AlignConsecutiveMacros: Consecutive
+AlignTrailingComments: true
+SpacesBeforeTrailingComments: 1
+
+# Include order: own header, project headers, third-party headers, standard library.
+SortIncludes: CaseSensitive
+IncludeBlocks: Regroup
+IncludeCategories:
+  - Regex: '^"'                                  # "local.hpp"
+    Priority: 1
+  - Regex: '^<dimension/'                        # <dimension/...>
+    Priority: 2
+  - Regex: '^<[[:alnum:]_]+[./][[:alnum:]_./]+>' # <catch2/...>, <glm/glm.hpp>
+    Priority: 3
+  - Regex: '^<[[:alnum:]_]+>'                    # <vector>, <string>
+    Priority: 4
+...

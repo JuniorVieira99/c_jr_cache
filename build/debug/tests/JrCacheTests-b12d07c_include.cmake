@@ -1,0 +1,5 @@
+if(EXISTS "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/JrCacheTests-b12d07c_tests.cmake")
+  include("C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/JrCacheTests-b12d07c_tests.cmake")
+else()
+  add_test(JrCacheTests_NOT_BUILT-b12d07c JrCacheTests_NOT_BUILT-b12d07c)
+endif()

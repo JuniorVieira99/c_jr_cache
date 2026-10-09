@@ -1,0 +1,128 @@
+[
+{
+  "directory": "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/bench",
+  "command": "\"C:\\Program Files\\LLVM\\bin\\clang-cl.exe\"  /nologo -TP -DBENCHMARK_STATIC_DEFINE -IC:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\headers -IC:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\build\\bench\\_deps\\googlebenchmark-src\\include -imsvcC:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\tests\\bench\\third_party\\caches -imsvcC:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\tests\\bench\\third_party\\cpp-lru-cache -imsvcC:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\tests\\bench\\third_party\\lrucache11 -imsvcC:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\third_party /DWIN32 /D_WINDOWS /EHsc /O2 /Ob2 /DNDEBUG -std:c++20 -MD /W4 /Fotests\\bench\\CMakeFiles\\JrCacheBench.dir\\bench_caches.cpp.obj /Fdtests\\bench\\CMakeFiles\\JrCacheBench.dir\\ -c -- C:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\tests\\bench\\bench_caches.cpp",
+  "file": "C:/Users/Agnal/Documents/Coding/C++/jr_cache/tests/bench/bench_caches.cpp",
+  "output": "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/bench/tests/bench/CMakeFiles/JrCacheBench.dir/bench_caches.cpp.obj"
+},
+{
+  "directory": "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/bench",
+  "command": "\"C:\\Program Files\\LLVM\\bin\\clang-cl.exe\"  /nologo -TP -DBENCHMARK_STATIC_DEFINE -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -D_CRT_SECURE_NO_WARNINGS -DBENCHMARK_VERSION=\\\"v1.9.5\\\" -IC:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\build\\bench\\_deps\\googlebenchmark-src\\include -IC:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\build\\bench\\_deps\\googlebenchmark-src\\src /DWIN32 /D_WINDOWS /EHsc /W4 /O2 /Ob2 /DNDEBUG -std:c++17 -MD /Fo_deps\\googlebenchmark-build\\src\\CMakeFiles\\benchmark.dir\\benchmark.cc.obj /Fd_deps\\googlebenchmark-build\\src\\CMakeFiles\\benchmark.dir\\benchmark.pdb -c -- C:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\build\\bench\\_deps\\googlebenchmark-src\\src\\benchmark.cc",
+  "file": "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/bench/_deps/googlebenchmark-src/src/benchmark.cc",
+  "output": "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/bench/_deps/googlebenchmark-build/src/CMakeFiles/benchmark.dir/benchmark.cc.obj"
+},
+{
+  "directory": "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/bench",
+  "command": "\"C:\\Program Files\\LLVM\\bin\\clang-cl.exe\"  /nologo -TP -DBENCHMARK_STATIC_DEFINE -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\build\\bench\\_deps\\googlebenchmark-src\\include -IC:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\build\\bench\\_deps\\googlebenchmark-src\\src /DWIN32 /D_WINDOWS /EHsc /W4 /O2 /Ob2 /DNDEBUG -std:c++17 -MD /Fo_deps\\googlebenchmark-build\\src\\CMakeFiles\\benchmark.dir\\benchmark_api_internal.cc.obj /Fd_deps\\googlebenchmark-build\\src\\CMakeFiles\\benchmark.dir\\benchmark.pdb -c -- C:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\build\\bench\\_deps\\googlebenchmark-src\\src\\benchmark_api_internal.cc",
+  "file": "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/bench/_deps/googlebenchmark-src/src/benchmark_api_internal.cc",
+  "output": "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/bench/_deps/googlebenchmark-build/src/CMakeFiles/benchmark.dir/benchmark_api_internal.cc.obj"
+},
+{
+  "directory": "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/bench",
+  "command": "\"C:\\Program Files\\LLVM\\bin\\clang-cl.exe\"  /nologo -TP -DBENCHMARK_STATIC_DEFINE -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\build\\bench\\_deps\\googlebenchmark-src\\include -IC:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\build\\bench\\_deps\\googlebenchmark-src\\src /DWIN32 /D_WINDOWS /EHsc /W4 /O2 /Ob2 /DNDEBUG -std:c++17 -MD /Fo_deps\\googlebenchmark-build\\src\\CMakeFiles\\benchmark.dir\\benchmark_name.cc.obj /Fd_deps\\googlebenchmark-build\\src\\CMakeFiles\\benchmark.dir\\benchmark.pdb -c -- C:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\build\\bench\\_deps\\googlebenchmark-src\\src\\benchmark_name.cc",
+  "file": "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/bench/_deps/googlebenchmark-src/src/benchmark_name.cc",
+  "output": "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/bench/_deps/googlebenchmark-build/src/CMakeFiles/benchmark.dir/benchmark_name.cc.obj"
+},
+{
+  "directory": "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/bench",
+  "command": "\"C:\\Program Files\\LLVM\\bin\\clang-cl.exe\"  /nologo -TP -DBENCHMARK_STATIC_DEFINE -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\build\\bench\\_deps\\googlebenchmark-src\\include -IC:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\build\\bench\\_deps\\googlebenchmark-src\\src /DWIN32 /D_WINDOWS /EHsc /W4 /O2 /Ob2 /DNDEBUG -std:c++17 -MD /Fo_deps\\googlebenchmark-build\\src\\CMakeFiles\\benchmark.dir\\benchmark_register.cc.obj /Fd_deps\\googlebenchmark-build\\src\\CMakeFiles\\benchmark.dir\\benchmark.pdb -c -- C:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\build\\bench\\_deps\\googlebenchmark-src\\src\\benchmark_register.cc",
+  "file": "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/bench/_deps/googlebenchmark-src/src/benchmark_register.cc",
+  "output": "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/bench/_deps/googlebenchmark-build/src/CMakeFiles/benchmark.dir/benchmark_register.cc.obj"
+},
+{
+  "directory": "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/bench",
+  "command": "\"C:\\Program Files\\LLVM\\bin\\clang-cl.exe\"  /nologo -TP -DBENCHMARK_STATIC_DEFINE -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\build\\bench\\_deps\\googlebenchmark-src\\include -IC:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\build\\bench\\_deps\\googlebenchmark-src\\src /DWIN32 /D_WINDOWS /EHsc /W4 /O2 /Ob2 /DNDEBUG -std:c++17 -MD /Fo_deps\\googlebenchmark-build\\src\\CMakeFiles\\benchmark.dir\\benchmark_runner.cc.obj /Fd_deps\\googlebenchmark-build\\src\\CMakeFiles\\benchmark.dir\\benchmark.pdb -c -- C:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\build\\bench\\_deps\\googlebenchmark-src\\src\\benchmark_runner.cc",
+  "file": "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/bench/_deps/googlebenchmark-src/src/benchmark_runner.cc",
+  "output": "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/bench/_deps/googlebenchmark-build/src/CMakeFiles/benchmark.dir/benchmark_runner.cc.obj"
+},
+{
+  "directory": "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/bench",
+  "command": "\"C:\\Program Files\\LLVM\\bin\\clang-cl.exe\"  /nologo -TP -DBENCHMARK_STATIC_DEFINE -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\build\\bench\\_deps\\googlebenchmark-src\\include -IC:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\build\\bench\\_deps\\googlebenchmark-src\\src /DWIN32 /D_WINDOWS /EHsc /W4 /O2 /Ob2 /DNDEBUG -std:c++17 -MD /Fo_deps\\googlebenchmark-build\\src\\CMakeFiles\\benchmark.dir\\check.cc.obj /Fd_deps\\googlebenchmark-build\\src\\CMakeFiles\\benchmark.dir\\benchmark.pdb -c -- C:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\build\\bench\\_deps\\googlebenchmark-src\\src\\check.cc",
+  "file": "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/bench/_deps/googlebenchmark-src/src/check.cc",
+  "output": "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/bench/_deps/googlebenchmark-build/src/CMakeFiles/benchmark.dir/check.cc.obj"
+},
+{
+  "directory": "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/bench",
+  "command": "\"C:\\Program Files\\LLVM\\bin\\clang-cl.exe\"  /nologo -TP -DBENCHMARK_STATIC_DEFINE -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\build\\bench\\_deps\\googlebenchmark-src\\include -IC:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\build\\bench\\_deps\\googlebenchmark-src\\src /DWIN32 /D_WINDOWS /EHsc /W4 /O2 /Ob2 /DNDEBUG -std:c++17 -MD /Fo_deps\\googlebenchmark-build\\src\\CMakeFiles\\benchmark.dir\\colorprint.cc.obj /Fd_deps\\googlebenchmark-build\\src\\CMakeFiles\\benchmark.dir\\benchmark.pdb -c -- C:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\build\\bench\\_deps\\googlebenchmark-src\\src\\colorprint.cc",
+  "file": "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/bench/_deps/googlebenchmark-src/src/colorprint.cc",
+  "output": "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/bench/_deps/googlebenchmark-build/src/CMakeFiles/benchmark.dir/colorprint.cc.obj"
+},
+{
+  "directory": "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/bench",
+  "command": "\"C:\\Program Files\\LLVM\\bin\\clang-cl.exe\"  /nologo -TP -DBENCHMARK_STATIC_DEFINE -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\build\\bench\\_deps\\googlebenchmark-src\\include -IC:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\build\\bench\\_deps\\googlebenchmark-src\\src /DWIN32 /D_WINDOWS /EHsc /W4 /O2 /Ob2 /DNDEBUG -std:c++17 -MD /Fo_deps\\googlebenchmark-build\\src\\CMakeFiles\\benchmark.dir\\commandlineflags.cc.obj /Fd_deps\\googlebenchmark-build\\src\\CMakeFiles\\benchmark.dir\\benchmark.pdb -c -- C:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\build\\bench\\_deps\\googlebenchmark-src\\src\\commandlineflags.cc",
+  "file": "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/bench/_deps/googlebenchmark-src/src/commandlineflags.cc",
+  "output": "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/bench/_deps/googlebenchmark-build/src/CMakeFiles/benchmark.dir/commandlineflags.cc.obj"
+},
+{
+  "directory": "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/bench",
+  "command": "\"C:\\Program Files\\LLVM\\bin\\clang-cl.exe\"  /nologo -TP -DBENCHMARK_STATIC_DEFINE -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\build\\bench\\_deps\\googlebenchmark-src\\include -IC:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\build\\bench\\_deps\\googlebenchmark-src\\src /DWIN32 /D_WINDOWS /EHsc /W4 /O2 /Ob2 /DNDEBUG -std:c++17 -MD /Fo_deps\\googlebenchmark-build\\src\\CMakeFiles\\benchmark.dir\\complexity.cc.obj /Fd_deps\\googlebenchmark-build\\src\\CMakeFiles\\benchmark.dir\\benchmark.pdb -c -- C:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\build\\bench\\_deps\\googlebenchmark-src\\src\\complexity.cc",
+  "file": "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/bench/_deps/googlebenchmark-src/src/complexity.cc",
+  "output": "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/bench/_deps/googlebenchmark-build/src/CMakeFiles/benchmark.dir/complexity.cc.obj"
+},
+{
+  "directory": "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/bench",
+  "command": "\"C:\\Program Files\\LLVM\\bin\\clang-cl.exe\"  /nologo -TP -DBENCHMARK_STATIC_DEFINE -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\build\\bench\\_deps\\googlebenchmark-src\\include -IC:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\build\\bench\\_deps\\googlebenchmark-src\\src /DWIN32 /D_WINDOWS /EHsc /W4 /O2 /Ob2 /DNDEBUG -std:c++17 -MD /Fo_deps\\googlebenchmark-build\\src\\CMakeFiles\\benchmark.dir\\console_reporter.cc.obj /Fd_deps\\googlebenchmark-build\\src\\CMakeFiles\\benchmark.dir\\benchmark.pdb -c -- C:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\build\\bench\\_deps\\googlebenchmark-src\\src\\console_reporter.cc",
+  "file": "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/bench/_deps/googlebenchmark-src/src/console_reporter.cc",
+  "output": "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/bench/_deps/googlebenchmark-build/src/CMakeFiles/benchmark.dir/console_reporter.cc.obj"
+},
+{
+  "directory": "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/bench",
+  "command": "\"C:\\Program Files\\LLVM\\bin\\clang-cl.exe\"  /nologo -TP -DBENCHMARK_STATIC_DEFINE -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\build\\bench\\_deps\\googlebenchmark-src\\include -IC:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\build\\bench\\_deps\\googlebenchmark-src\\src /DWIN32 /D_WINDOWS /EHsc /W4 /O2 /Ob2 /DNDEBUG -std:c++17 -MD /Fo_deps\\googlebenchmark-build\\src\\CMakeFiles\\benchmark.dir\\counter.cc.obj /Fd_deps\\googlebenchmark-build\\src\\CMakeFiles\\benchmark.dir\\benchmark.pdb -c -- C:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\build\\bench\\_deps\\googlebenchmark-src\\src\\counter.cc",
+  "file": "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/bench/_deps/googlebenchmark-src/src/counter.cc",
+  "output": "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/bench/_deps/googlebenchmark-build/src/CMakeFiles/benchmark.dir/counter.cc.obj"
+},
+{
+  "directory": "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/bench",
+  "command": "\"C:\\Program Files\\LLVM\\bin\\clang-cl.exe\"  /nologo -TP -DBENCHMARK_STATIC_DEFINE -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\build\\bench\\_deps\\googlebenchmark-src\\include -IC:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\build\\bench\\_deps\\googlebenchmark-src\\src /DWIN32 /D_WINDOWS /EHsc /W4 /O2 /Ob2 /DNDEBUG -std:c++17 -MD /Fo_deps\\googlebenchmark-build\\src\\CMakeFiles\\benchmark.dir\\csv_reporter.cc.obj /Fd_deps\\googlebenchmark-build\\src\\CMakeFiles\\benchmark.dir\\benchmark.pdb -c -- C:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\build\\bench\\_deps\\googlebenchmark-src\\src\\csv_reporter.cc",
+  "file": "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/bench/_deps/googlebenchmark-src/src/csv_reporter.cc",
+  "output": "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/bench/_deps/googlebenchmark-build/src/CMakeFiles/benchmark.dir/csv_reporter.cc.obj"
+},
+{
+  "directory": "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/bench",
+  "command": "\"C:\\Program Files\\LLVM\\bin\\clang-cl.exe\"  /nologo -TP -DBENCHMARK_STATIC_DEFINE -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\build\\bench\\_deps\\googlebenchmark-src\\include -IC:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\build\\bench\\_deps\\googlebenchmark-src\\src /DWIN32 /D_WINDOWS /EHsc /W4 /O2 /Ob2 /DNDEBUG -std:c++17 -MD /Fo_deps\\googlebenchmark-build\\src\\CMakeFiles\\benchmark.dir\\json_reporter.cc.obj /Fd_deps\\googlebenchmark-build\\src\\CMakeFiles\\benchmark.dir\\benchmark.pdb -c -- C:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\build\\bench\\_deps\\googlebenchmark-src\\src\\json_reporter.cc",
+  "file": "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/bench/_deps/googlebenchmark-src/src/json_reporter.cc",
+  "output": "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/bench/_deps/googlebenchmark-build/src/CMakeFiles/benchmark.dir/json_reporter.cc.obj"
+},
+{
+  "directory": "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/bench",
+  "command": "\"C:\\Program Files\\LLVM\\bin\\clang-cl.exe\"  /nologo -TP -DBENCHMARK_STATIC_DEFINE -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\build\\bench\\_deps\\googlebenchmark-src\\include -IC:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\build\\bench\\_deps\\googlebenchmark-src\\src /DWIN32 /D_WINDOWS /EHsc /W4 /O2 /Ob2 /DNDEBUG -std:c++17 -MD /Fo_deps\\googlebenchmark-build\\src\\CMakeFiles\\benchmark.dir\\perf_counters.cc.obj /Fd_deps\\googlebenchmark-build\\src\\CMakeFiles\\benchmark.dir\\benchmark.pdb -c -- C:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\build\\bench\\_deps\\googlebenchmark-src\\src\\perf_counters.cc",
+  "file": "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/bench/_deps/googlebenchmark-src/src/perf_counters.cc",
+  "output": "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/bench/_deps/googlebenchmark-build/src/CMakeFiles/benchmark.dir/perf_counters.cc.obj"
+},
+{
+  "directory": "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/bench",
+  "command": "\"C:\\Program Files\\LLVM\\bin\\clang-cl.exe\"  /nologo -TP -DBENCHMARK_STATIC_DEFINE -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\build\\bench\\_deps\\googlebenchmark-src\\include -IC:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\build\\bench\\_deps\\googlebenchmark-src\\src /DWIN32 /D_WINDOWS /EHsc /W4 /O2 /Ob2 /DNDEBUG -std:c++17 -MD /Fo_deps\\googlebenchmark-build\\src\\CMakeFiles\\benchmark.dir\\reporter.cc.obj /Fd_deps\\googlebenchmark-build\\src\\CMakeFiles\\benchmark.dir\\benchmark.pdb -c -- C:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\build\\bench\\_deps\\googlebenchmark-src\\src\\reporter.cc",
+  "file": "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/bench/_deps/googlebenchmark-src/src/reporter.cc",
+  "output": "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/bench/_deps/googlebenchmark-build/src/CMakeFiles/benchmark.dir/reporter.cc.obj"
+},
+{
+  "directory": "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/bench",
+  "command": "\"C:\\Program Files\\LLVM\\bin\\clang-cl.exe\"  /nologo -TP -DBENCHMARK_STATIC_DEFINE -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\build\\bench\\_deps\\googlebenchmark-src\\include -IC:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\build\\bench\\_deps\\googlebenchmark-src\\src /DWIN32 /D_WINDOWS /EHsc /W4 /O2 /Ob2 /DNDEBUG -std:c++17 -MD /Fo_deps\\googlebenchmark-build\\src\\CMakeFiles\\benchmark.dir\\statistics.cc.obj /Fd_deps\\googlebenchmark-build\\src\\CMakeFiles\\benchmark.dir\\benchmark.pdb -c -- C:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\build\\bench\\_deps\\googlebenchmark-src\\src\\statistics.cc",
+  "file": "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/bench/_deps/googlebenchmark-src/src/statistics.cc",
+  "output": "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/bench/_deps/googlebenchmark-build/src/CMakeFiles/benchmark.dir/statistics.cc.obj"
+},
+{
+  "directory": "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/bench",
+  "command": "\"C:\\Program Files\\LLVM\\bin\\clang-cl.exe\"  /nologo -TP -DBENCHMARK_STATIC_DEFINE -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\build\\bench\\_deps\\googlebenchmark-src\\include -IC:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\build\\bench\\_deps\\googlebenchmark-src\\src /DWIN32 /D_WINDOWS /EHsc /W4 /O2 /Ob2 /DNDEBUG -std:c++17 -MD /Fo_deps\\googlebenchmark-build\\src\\CMakeFiles\\benchmark.dir\\string_util.cc.obj /Fd_deps\\googlebenchmark-build\\src\\CMakeFiles\\benchmark.dir\\benchmark.pdb -c -- C:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\build\\bench\\_deps\\googlebenchmark-src\\src\\string_util.cc",
+  "file": "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/bench/_deps/googlebenchmark-src/src/string_util.cc",
+  "output": "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/bench/_deps/googlebenchmark-build/src/CMakeFiles/benchmark.dir/string_util.cc.obj"
+},
+{
+  "directory": "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/bench",
+  "command": "\"C:\\Program Files\\LLVM\\bin\\clang-cl.exe\"  /nologo -TP -DBENCHMARK_STATIC_DEFINE -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\build\\bench\\_deps\\googlebenchmark-src\\include -IC:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\build\\bench\\_deps\\googlebenchmark-src\\src /DWIN32 /D_WINDOWS /EHsc /W4 /O2 /Ob2 /DNDEBUG -std:c++17 -MD /Fo_deps\\googlebenchmark-build\\src\\CMakeFiles\\benchmark.dir\\sysinfo.cc.obj /Fd_deps\\googlebenchmark-build\\src\\CMakeFiles\\benchmark.dir\\benchmark.pdb -c -- C:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\build\\bench\\_deps\\googlebenchmark-src\\src\\sysinfo.cc",
+  "file": "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/bench/_deps/googlebenchmark-src/src/sysinfo.cc",
+  "output": "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/bench/_deps/googlebenchmark-build/src/CMakeFiles/benchmark.dir/sysinfo.cc.obj"
+},
+{
+  "directory": "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/bench",
+  "command": "\"C:\\Program Files\\LLVM\\bin\\clang-cl.exe\"  /nologo -TP -DBENCHMARK_STATIC_DEFINE -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\build\\bench\\_deps\\googlebenchmark-src\\include -IC:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\build\\bench\\_deps\\googlebenchmark-src\\src /DWIN32 /D_WINDOWS /EHsc /W4 /O2 /Ob2 /DNDEBUG -std:c++17 -MD /Fo_deps\\googlebenchmark-build\\src\\CMakeFiles\\benchmark.dir\\timers.cc.obj /Fd_deps\\googlebenchmark-build\\src\\CMakeFiles\\benchmark.dir\\benchmark.pdb -c -- C:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\build\\bench\\_deps\\googlebenchmark-src\\src\\timers.cc",
+  "file": "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/bench/_deps/googlebenchmark-src/src/timers.cc",
+  "output": "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/bench/_deps/googlebenchmark-build/src/CMakeFiles/benchmark.dir/timers.cc.obj"
+},
+{
+  "directory": "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/bench",
+  "command": "\"C:\\Program Files\\LLVM\\bin\\clang-cl.exe\"  /nologo -TP -DBENCHMARK_STATIC_DEFINE -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -D_CRT_SECURE_NO_WARNINGS -IC:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\build\\bench\\_deps\\googlebenchmark-src\\include -IC:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\build\\bench\\_deps\\googlebenchmark-src\\src /DWIN32 /D_WINDOWS /EHsc /W4 /O2 /Ob2 /DNDEBUG -std:c++17 -MD /Fo_deps\\googlebenchmark-build\\src\\CMakeFiles\\benchmark_main.dir\\benchmark_main.cc.obj /Fd_deps\\googlebenchmark-build\\src\\CMakeFiles\\benchmark_main.dir\\benchmark_main.pdb -c -- C:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\build\\bench\\_deps\\googlebenchmark-src\\src\\benchmark_main.cc",
+  "file": "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/bench/_deps/googlebenchmark-src/src/benchmark_main.cc",
+  "output": "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/bench/_deps/googlebenchmark-build/src/CMakeFiles/benchmark_main.dir/benchmark_main.cc.obj"
+}
+]

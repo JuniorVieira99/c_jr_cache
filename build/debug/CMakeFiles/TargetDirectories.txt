@@ -1,0 +1,7 @@
+C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/CMakeFiles/test.dir
+C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/CMakeFiles/edit_cache.dir
+C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/CMakeFiles/JrCacheTests.dir
+C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/CMakeFiles/test.dir
+C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/CMakeFiles/edit_cache.dir
+C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,38 @@
+[
+{
+  "directory": "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug",
+  "command": "\"C:\\Program Files\\LLVM\\bin\\clang-cl.exe\"  /nologo -TP -IC:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\headers -imsvcC:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\third_party -imsvcC:\\Users\\Agnal\\Documents\\Coding\\C++\\pack_manager\\vcpkg\\installed\\x64-windows\\include /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -std:c++20 -MDd -Zi /W4 /Fotests\\CMakeFiles\\JrCacheTests.dir\\test_linked_list.cpp.obj /Fdtests\\CMakeFiles\\JrCacheTests.dir\\ -c -- C:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\tests\\test_linked_list.cpp",
+  "file": "C:/Users/Agnal/Documents/Coding/C++/jr_cache/tests/test_linked_list.cpp",
+  "output": "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/CMakeFiles/JrCacheTests.dir/test_linked_list.cpp.obj"
+},
+{
+  "directory": "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug",
+  "command": "\"C:\\Program Files\\LLVM\\bin\\clang-cl.exe\"  /nologo -TP -IC:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\headers -imsvcC:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\third_party -imsvcC:\\Users\\Agnal\\Documents\\Coding\\C++\\pack_manager\\vcpkg\\installed\\x64-windows\\include /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -std:c++20 -MDd -Zi /W4 /Fotests\\CMakeFiles\\JrCacheTests.dir\\test_bucket_map.cpp.obj /Fdtests\\CMakeFiles\\JrCacheTests.dir\\ -c -- C:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\tests\\test_bucket_map.cpp",
+  "file": "C:/Users/Agnal/Documents/Coding/C++/jr_cache/tests/test_bucket_map.cpp",
+  "output": "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/CMakeFiles/JrCacheTests.dir/test_bucket_map.cpp.obj"
+},
+{
+  "directory": "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug",
+  "command": "\"C:\\Program Files\\LLVM\\bin\\clang-cl.exe\"  /nologo -TP -IC:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\headers -imsvcC:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\third_party -imsvcC:\\Users\\Agnal\\Documents\\Coding\\C++\\pack_manager\\vcpkg\\installed\\x64-windows\\include /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -std:c++20 -MDd -Zi /W4 /Fotests\\CMakeFiles\\JrCacheTests.dir\\test_cache_map.cpp.obj /Fdtests\\CMakeFiles\\JrCacheTests.dir\\ -c -- C:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\tests\\test_cache_map.cpp",
+  "file": "C:/Users/Agnal/Documents/Coding/C++/jr_cache/tests/test_cache_map.cpp",
+  "output": "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/CMakeFiles/JrCacheTests.dir/test_cache_map.cpp.obj"
+},
+{
+  "directory": "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug",
+  "command": "\"C:\\Program Files\\LLVM\\bin\\clang-cl.exe\"  /nologo -TP -IC:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\headers -imsvcC:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\third_party -imsvcC:\\Users\\Agnal\\Documents\\Coding\\C++\\pack_manager\\vcpkg\\installed\\x64-windows\\include /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -std:c++20 -MDd -Zi /W4 /Fotests\\CMakeFiles\\JrCacheTests.dir\\test_utilities.cpp.obj /Fdtests\\CMakeFiles\\JrCacheTests.dir\\ -c -- C:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\tests\\test_utilities.cpp",
+  "file": "C:/Users/Agnal/Documents/Coding/C++/jr_cache/tests/test_utilities.cpp",
+  "output": "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/CMakeFiles/JrCacheTests.dir/test_utilities.cpp.obj"
+},
+{
+  "directory": "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug",
+  "command": "\"C:\\Program Files\\LLVM\\bin\\clang-cl.exe\"  /nologo -TP -IC:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\headers -imsvcC:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\third_party -imsvcC:\\Users\\Agnal\\Documents\\Coding\\C++\\pack_manager\\vcpkg\\installed\\x64-windows\\include /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -std:c++20 -MDd -Zi /W4 /Fotests\\CMakeFiles\\JrCacheTests.dir\\test_sharded_map.cpp.obj /Fdtests\\CMakeFiles\\JrCacheTests.dir\\ -c -- C:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\tests\\test_sharded_map.cpp",
+  "file": "C:/Users/Agnal/Documents/Coding/C++/jr_cache/tests/test_sharded_map.cpp",
+  "output": "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/CMakeFiles/JrCacheTests.dir/test_sharded_map.cpp.obj"
+},
+{
+  "directory": "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug",
+  "command": "\"C:\\Program Files\\LLVM\\bin\\clang-cl.exe\"  /nologo -TP -IC:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\headers -imsvcC:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\third_party -imsvcC:\\Users\\Agnal\\Documents\\Coding\\C++\\pack_manager\\vcpkg\\installed\\x64-windows\\include /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -std:c++20 -MDd -Zi /W4 /Fotests\\CMakeFiles\\JrCacheTests.dir\\test_serialization.cpp.obj /Fdtests\\CMakeFiles\\JrCacheTests.dir\\ -c -- C:\\Users\\Agnal\\Documents\\Coding\\C++\\jr_cache\\tests\\test_serialization.cpp",
+  "file": "C:/Users/Agnal/Documents/Coding/C++/jr_cache/tests/test_serialization.cpp",
+  "output": "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/CMakeFiles/JrCacheTests.dir/test_serialization.cpp.obj"
+}
+]

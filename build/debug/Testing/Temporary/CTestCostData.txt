@@ -1,0 +1,84 @@
+BucketMap starts empty 15 0.000721313
+BucketMap operations on missing buckets do nothing 15 0.00071738
+bucket bulk operations 15 0.00077824
+LinkedList RemoveBatch returns only the removed values 15 0.000704347
+BucketMap with locking stays consistent across threads 15 0.00201663
+bucket stores, overwrites and removes values 15 0.00075048
+LinkedList SetBatchBottom acts like SetBottom for each item in order 15 0.000749813
+LinkedList setting an existing key moves it and replaces its value 15 0.000734787
+LinkedList without locking behaves the same 15 0.000756073
+LinkedList SetTop and SetBottom place new keys at the ends 15 0.000726913
+LinkedList batch set handles duplicates, nulls and empty input 15 0.000786833
+BucketMap GetAny returns a value from the requested bucket 15 0.000732167
+LinkedList removes nodes and hands back the value pointer 15 0.00070576
+BucketMap keeps buckets separate 15 0.00073248
+LinkedList updating a key does not change the size 15 0.000732573
+LinkedList Clear empties the list and it can be reused 15 0.00075986
+LinkedList ignores null values 15 0.000707427
+BucketMap PutValue overwrites an existing key 15 0.00078864
+LinkedList SetBatchTop acts like SetTop for each item in order 15 0.000759573
+BucketMap removals drop buckets once they are empty 15 0.00083108
+bucket GetAny returns one of the stored items 15 0.000692647
+LinkedList GetBatch returns a result per key 15 0.000744167
+LinkedList Get functions return copies 15 0.00076678
+BucketMap PutBatch 15 0.0007697
+LinkedList with one element has the same top and bottom 15 0.00074994
+LinkedList with locking stays consistent across threads 15 0.00117003
+bucket starts empty 15 0.000685593
+LinkedList starts empty 15 0.000806073
+CacheMap rejects a capacity of zero 14 0.000766864
+CacheMap MRU evicts the most recently used key 14 0.000779507
+BucketMap LowestIndex and HighestIndex track non-empty buckets 14 0.0007906
+CacheMap without locking behaves the same 14 0.0007842
+CacheMap LIFO evicts the key inserted most recently 14 0.000833329
+CacheMap FIFO evicts the key inserted longest ago 14 0.000820971
+CacheMap with capacity one keeps only the latest key 14 0.00078905
+CacheMap reports its settings 14 0.000753664
+CacheMap LFU evicts the least frequently used key 14 0.000779657
+CacheMap LRU evicts the least recently used key 14 0.000799964
+CacheMap with locking stays within capacity across threads 14 0.00955951
+bucket RemoveAny and RemoveAll hand back what they removed 14 0.000837236
+CacheMap MFU evicts the most frequently used key 14 0.000793821
+CacheMap LFU forgets the use count of a removed key 14 0.000776314
+CacheMap basic operations work under every policy 14 0.000935886
+CacheMap using Hash String Function 13 0.000850315
+HashString keeps full floating-point precision 13 0.000836908
+HashString does not merge neighbouring arguments 13 0.000822015
+HashString tells different calls apart 13 0.000832592
+Hash is the same for the same call and differs otherwise 13 0.000794485
+HashString is the same for the same call 13 0.000888608
+CacheMap using Hash Function with Hash 13 0.000920477
+ShardedMap reports its settings 10 0.00109339
+ShardedMap spreads keys that share a common factor 10 0.00114932
+ShardedMap rejects zero shards or zero capacity 10 0.00106612
+ShardedMap stays consistent across threads 10 0.00411619
+ShardedMap basic operations work under every policy 10 0.0012653
+ShardedMap with one shard behaves like a CacheMap 10 0.00107885
+ShardedMap never holds more than its total capacity 10 0.00149226
+ShardedMap round trip 8 0.00366012
+JsonReader reports trailing text and errors with an offset 4 0.00205695
+Serializers handle eviction policies and custom types 4 0.00209405
+LinkedList FromJson stores values through the callback 9 0.0013902
+ShardedMap FromJson rejects malformed JSON 4 0.0025502
+CacheMap FromJson rejects JSON that does not fit 9 0.00132501
+Serializers reject numbers that do not fit 4 0.0023911
+Caches of non-serializable values still work 9 0.00115493
+BucketMap ToJson and FromJson round-trip 9 0.00128078
+CacheMap round trip keeps the eviction order 9 0.00156477
+CacheMap serializes custom value types 4 0.00230865
+CacheMap ToJson format 9 0.00125987
+ShardedMap keeps LFU use counts when shards change 9 0.00121967
+LinkedList ToJson writes items from top to bottom 4 0.00239883
+Serializers round-trip numbers exactly 4 0.00211765
+Serializers escape and unescape strings 4 0.0024231
+LinkedList ToJson lists items from top to bottom 5 0.0021236
+CacheMap serializes user and standard types 5 0.00229758
+EvictionPolicy converts to and from its name 5 0.0025109
+ShardedMap FromJson rejects JSON with the wrong shape 5 0.00252936
+BucketMap MoveValue moves a key without copying its value 2 0.0054838
+CacheMap GetPtr and Visit count as uses 2 0.00578055
+CacheMap GetPtr returns the cached value itself 2 0.00601735
+ShardedMap GetPtr and Visit reach the cached value 2 0.00575925
+CacheMap Visit is safe across threads 2 0.0433985
+CacheMap Visit runs on the cached value 2 0.0053723
+---

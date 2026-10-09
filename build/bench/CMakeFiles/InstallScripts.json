@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/bench/cmake_install.cmake",
+		"C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/bench/tests/bench/cmake_install.cmake",
+		"C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/bench/_deps/googlebenchmark-build/cmake_install.cmake",
+		"C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/bench/_deps/googlebenchmark-build/src/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

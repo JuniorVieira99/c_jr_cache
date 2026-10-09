@@ -1,0 +1,1503 @@
+Start testing: Oct 08 17:31 Hora oficial do Brasil
+----------------------------------------------------------
+1/75 Testing: ShardedMap round trip
+1/75 Test: ShardedMap round trip
+Command: "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/JrCacheTests.exe" "ShardedMap round trip"
+Directory: C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests
+"ShardedMap round trip" start time: Oct 08 17:31 Hora oficial do Brasil
+Output:
+----------------------------------------------------------
+Filters: "ShardedMap round trip"
+Randomness seeded to: 2811412388
+===============================================================================
+All tests passed (417 assertions in 1 test case)
+
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"ShardedMap round trip" end time: Oct 08 17:31 Hora oficial do Brasil
+"ShardedMap round trip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/75 Testing: CacheMap with locking stays within capacity across threads
+2/75 Test: CacheMap with locking stays within capacity across threads
+Command: "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/JrCacheTests.exe" "CacheMap with locking stays within capacity across threads"
+Directory: C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests
+"CacheMap with locking stays within capacity across threads" start time: Oct 08 17:31 Hora oficial do Brasil
+Output:
+----------------------------------------------------------
+Filters: "CacheMap with locking stays within capacity across threads"
+Randomness seeded to: 3105223435
+===============================================================================
+All tests passed (402 assertions in 1 test case)
+
+<end of output>
+Test time =   0.13 sec
+----------------------------------------------------------
+Test Passed.
+"CacheMap with locking stays within capacity across threads" end time: Oct 08 17:31 Hora oficial do Brasil
+"CacheMap with locking stays within capacity across threads" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/75 Testing: CacheMap round trip keeps the eviction order
+3/75 Test: CacheMap round trip keeps the eviction order
+Command: "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/JrCacheTests.exe" "CacheMap round trip keeps the eviction order"
+Directory: C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests
+"CacheMap round trip keeps the eviction order" start time: Oct 08 17:31 Hora oficial do Brasil
+Output:
+----------------------------------------------------------
+Filters: "CacheMap round trip keeps the eviction order"
+Randomness seeded to: 1547624841
+===============================================================================
+All tests passed (42 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"CacheMap round trip keeps the eviction order" end time: Oct 08 17:31 Hora oficial do Brasil
+"CacheMap round trip keeps the eviction order" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/75 Testing: ShardedMap FromJson rejects JSON with the wrong shape
+4/75 Test: ShardedMap FromJson rejects JSON with the wrong shape
+Command: "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/JrCacheTests.exe" "ShardedMap FromJson rejects JSON with the wrong shape"
+Directory: C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests
+"ShardedMap FromJson rejects JSON with the wrong shape" start time: Oct 08 17:31 Hora oficial do Brasil
+Output:
+----------------------------------------------------------
+Filters: "ShardedMap FromJson rejects JSON with the wrong shape"
+Randomness seeded to: 2785866799
+===============================================================================
+All tests passed (5 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ShardedMap FromJson rejects JSON with the wrong shape" end time: Oct 08 17:31 Hora oficial do Brasil
+"ShardedMap FromJson rejects JSON with the wrong shape" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/75 Testing: BucketMap operations on missing buckets do nothing
+5/75 Test: BucketMap operations on missing buckets do nothing
+Command: "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/JrCacheTests.exe" "BucketMap operations on missing buckets do nothing"
+Directory: C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests
+"BucketMap operations on missing buckets do nothing" start time: Oct 08 17:31 Hora oficial do Brasil
+Output:
+----------------------------------------------------------
+Filters: "BucketMap operations on missing buckets do nothing"
+Randomness seeded to: 471172295
+===============================================================================
+All tests passed (7 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"BucketMap operations on missing buckets do nothing" end time: Oct 08 17:31 Hora oficial do Brasil
+"BucketMap operations on missing buckets do nothing" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/75 Testing: CacheMap LFU forgets the use count of a removed key
+6/75 Test: CacheMap LFU forgets the use count of a removed key
+Command: "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/JrCacheTests.exe" "CacheMap LFU forgets the use count of a removed key"
+Directory: C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests
+"CacheMap LFU forgets the use count of a removed key" start time: Oct 08 17:31 Hora oficial do Brasil
+Output:
+----------------------------------------------------------
+Filters: "CacheMap LFU forgets the use count of a removed key"
+Randomness seeded to: 4241688921
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"CacheMap LFU forgets the use count of a removed key" end time: Oct 08 17:31 Hora oficial do Brasil
+"CacheMap LFU forgets the use count of a removed key" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/75 Testing: CacheMap basic operations work under every policy
+7/75 Test: CacheMap basic operations work under every policy
+Command: "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/JrCacheTests.exe" "CacheMap basic operations work under every policy"
+Directory: C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests
+"CacheMap basic operations work under every policy" start time: Oct 08 17:31 Hora oficial do Brasil
+Output:
+----------------------------------------------------------
+Filters: "CacheMap basic operations work under every policy"
+Randomness seeded to: 2199339418
+===============================================================================
+All tests passed (546 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"CacheMap basic operations work under every policy" end time: Oct 08 17:31 Hora oficial do Brasil
+"CacheMap basic operations work under every policy" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/75 Testing: LinkedList starts empty
+8/75 Test: LinkedList starts empty
+Command: "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/JrCacheTests.exe" "LinkedList starts empty"
+Directory: C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests
+"LinkedList starts empty" start time: Oct 08 17:31 Hora oficial do Brasil
+Output:
+----------------------------------------------------------
+Filters: "LinkedList starts empty"
+Randomness seeded to: 30169449
+===============================================================================
+All tests passed (8 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"LinkedList starts empty" end time: Oct 08 17:31 Hora oficial do Brasil
+"LinkedList starts empty" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/75 Testing: CacheMap FromJson rejects JSON that does not fit
+9/75 Test: CacheMap FromJson rejects JSON that does not fit
+Command: "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/JrCacheTests.exe" "CacheMap FromJson rejects JSON that does not fit"
+Directory: C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests
+"CacheMap FromJson rejects JSON that does not fit" start time: Oct 08 17:31 Hora oficial do Brasil
+Output:
+----------------------------------------------------------
+Filters: "CacheMap FromJson rejects JSON that does not fit"
+Randomness seeded to: 1087817775
+===============================================================================
+All tests passed (15 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"CacheMap FromJson rejects JSON that does not fit" end time: Oct 08 17:31 Hora oficial do Brasil
+"CacheMap FromJson rejects JSON that does not fit" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/75 Testing: bucket RemoveAny and RemoveAll hand back what they removed
+10/75 Test: bucket RemoveAny and RemoveAll hand back what they removed
+Command: "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/JrCacheTests.exe" "bucket RemoveAny and RemoveAll hand back what they removed"
+Directory: C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests
+"bucket RemoveAny and RemoveAll hand back what they removed" start time: Oct 08 17:31 Hora oficial do Brasil
+Output:
+----------------------------------------------------------
+Filters: "bucket RemoveAny and RemoveAll hand back what they removed"
+Randomness seeded to: 3720430099
+===============================================================================
+All tests passed (7 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"bucket RemoveAny and RemoveAll hand back what they removed" end time: Oct 08 17:31 Hora oficial do Brasil
+"bucket RemoveAny and RemoveAll hand back what they removed" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/75 Testing: LinkedList batch set handles duplicates, nulls and empty input
+11/75 Test: LinkedList batch set handles duplicates, nulls and empty input
+Command: "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/JrCacheTests.exe" "LinkedList batch set handles duplicates\, nulls and empty input"
+Directory: C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests
+"LinkedList batch set handles duplicates, nulls and empty input" start time: Oct 08 17:31 Hora oficial do Brasil
+Output:
+----------------------------------------------------------
+Filters: "LinkedList batch set handles duplicates\, nulls and empty input"
+Randomness seeded to: 3719879576
+===============================================================================
+All tests passed (5 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"LinkedList batch set handles duplicates, nulls and empty input" end time: Oct 08 17:31 Hora oficial do Brasil
+"LinkedList batch set handles duplicates, nulls and empty input" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/75 Testing: LinkedList setting an existing key moves it and replaces its value
+12/75 Test: LinkedList setting an existing key moves it and replaces its value
+Command: "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/JrCacheTests.exe" "LinkedList setting an existing key moves it and replaces its value"
+Directory: C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests
+"LinkedList setting an existing key moves it and replaces its value" start time: Oct 08 17:31 Hora oficial do Brasil
+Output:
+----------------------------------------------------------
+Filters: "LinkedList setting an existing key moves it and replaces its value"
+Randomness seeded to: 250239816
+===============================================================================
+All tests passed (5 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"LinkedList setting an existing key moves it and replaces its value" end time: Oct 08 17:31 Hora oficial do Brasil
+"LinkedList setting an existing key moves it and replaces its value" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/75 Testing: ShardedMap keeps LFU use counts when shards change
+13/75 Test: ShardedMap keeps LFU use counts when shards change
+Command: "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/JrCacheTests.exe" "ShardedMap keeps LFU use counts when shards change"
+Directory: C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests
+"ShardedMap keeps LFU use counts when shards change" start time: Oct 08 17:31 Hora oficial do Brasil
+Output:
+----------------------------------------------------------
+Filters: "ShardedMap keeps LFU use counts when shards change"
+Randomness seeded to: 4021752236
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ShardedMap keeps LFU use counts when shards change" end time: Oct 08 17:31 Hora oficial do Brasil
+"ShardedMap keeps LFU use counts when shards change" time elapsed: 00:00:00
+----------------------------------------------------------
+
+14/75 Testing: CacheMap LIFO evicts the key inserted most recently
+14/75 Test: CacheMap LIFO evicts the key inserted most recently
+Command: "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/JrCacheTests.exe" "CacheMap LIFO evicts the key inserted most recently"
+Directory: C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests
+"CacheMap LIFO evicts the key inserted most recently" start time: Oct 08 17:31 Hora oficial do Brasil
+Output:
+----------------------------------------------------------
+Filters: "CacheMap LIFO evicts the key inserted most recently"
+Randomness seeded to: 3601427125
+===============================================================================
+All tests passed (7 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"CacheMap LIFO evicts the key inserted most recently" end time: Oct 08 17:31 Hora oficial do Brasil
+"CacheMap LIFO evicts the key inserted most recently" time elapsed: 00:00:00
+----------------------------------------------------------
+
+15/75 Testing: CacheMap using Hash String Function
+15/75 Test: CacheMap using Hash String Function
+Command: "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/JrCacheTests.exe" "CacheMap using Hash String Function"
+Directory: C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests
+"CacheMap using Hash String Function" start time: Oct 08 17:31 Hora oficial do Brasil
+Output:
+----------------------------------------------------------
+Filters: "CacheMap using Hash String Function"
+Randomness seeded to: 1344797906
+===============================================================================
+All tests passed (6 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"CacheMap using Hash String Function" end time: Oct 08 17:31 Hora oficial do Brasil
+"CacheMap using Hash String Function" time elapsed: 00:00:00
+----------------------------------------------------------
+
+16/75 Testing: CacheMap without locking behaves the same
+16/75 Test: CacheMap without locking behaves the same
+Command: "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/JrCacheTests.exe" "CacheMap without locking behaves the same"
+Directory: C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests
+"CacheMap without locking behaves the same" start time: Oct 08 17:31 Hora oficial do Brasil
+Output:
+----------------------------------------------------------
+Filters: "CacheMap without locking behaves the same"
+Randomness seeded to: 3194534970
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"CacheMap without locking behaves the same" end time: Oct 08 17:31 Hora oficial do Brasil
+"CacheMap without locking behaves the same" time elapsed: 00:00:00
+----------------------------------------------------------
+
+17/75 Testing: CacheMap MFU evicts the most frequently used key
+17/75 Test: CacheMap MFU evicts the most frequently used key
+Command: "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/JrCacheTests.exe" "CacheMap MFU evicts the most frequently used key"
+Directory: C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests
+"CacheMap MFU evicts the most frequently used key" start time: Oct 08 17:31 Hora oficial do Brasil
+Output:
+----------------------------------------------------------
+Filters: "CacheMap MFU evicts the most frequently used key"
+Randomness seeded to: 941946003
+===============================================================================
+All tests passed (6 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"CacheMap MFU evicts the most frequently used key" end time: Oct 08 17:31 Hora oficial do Brasil
+"CacheMap MFU evicts the most frequently used key" time elapsed: 00:00:00
+----------------------------------------------------------
+
+18/75 Testing: LinkedList Get functions return copies
+18/75 Test: LinkedList Get functions return copies
+Command: "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/JrCacheTests.exe" "LinkedList Get functions return copies"
+Directory: C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests
+"LinkedList Get functions return copies" start time: Oct 08 17:31 Hora oficial do Brasil
+Output:
+----------------------------------------------------------
+Filters: "LinkedList Get functions return copies"
+Randomness seeded to: 267525294
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"LinkedList Get functions return copies" end time: Oct 08 17:31 Hora oficial do Brasil
+"LinkedList Get functions return copies" time elapsed: 00:00:00
+----------------------------------------------------------
+
+19/75 Testing: LinkedList SetBatchBottom acts like SetBottom for each item in order
+19/75 Test: LinkedList SetBatchBottom acts like SetBottom for each item in order
+Command: "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/JrCacheTests.exe" "LinkedList SetBatchBottom acts like SetBottom for each item in order"
+Directory: C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests
+"LinkedList SetBatchBottom acts like SetBottom for each item in order" start time: Oct 08 17:31 Hora oficial do Brasil
+Output:
+----------------------------------------------------------
+Filters: "LinkedList SetBatchBottom acts like SetBottom for each item in order"
+Randomness seeded to: 348327179
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"LinkedList SetBatchBottom acts like SetBottom for each item in order" end time: Oct 08 17:31 Hora oficial do Brasil
+"LinkedList SetBatchBottom acts like SetBottom for each item in order" time elapsed: 00:00:00
+----------------------------------------------------------
+
+20/75 Testing: ShardedMap reports its settings
+20/75 Test: ShardedMap reports its settings
+Command: "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/JrCacheTests.exe" "ShardedMap reports its settings"
+Directory: C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests
+"ShardedMap reports its settings" start time: Oct 08 17:31 Hora oficial do Brasil
+Output:
+----------------------------------------------------------
+Filters: "ShardedMap reports its settings"
+Randomness seeded to: 1446224607
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ShardedMap reports its settings" end time: Oct 08 17:31 Hora oficial do Brasil
+"ShardedMap reports its settings" time elapsed: 00:00:00
+----------------------------------------------------------
+
+21/75 Testing: BucketMap with locking stays consistent across threads
+21/75 Test: BucketMap with locking stays consistent across threads
+Command: "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/JrCacheTests.exe" "BucketMap with locking stays consistent across threads"
+Directory: C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests
+"BucketMap with locking stays consistent across threads" start time: Oct 08 17:31 Hora oficial do Brasil
+Output:
+----------------------------------------------------------
+Filters: "BucketMap with locking stays consistent across threads"
+Randomness seeded to: 577629228
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"BucketMap with locking stays consistent across threads" end time: Oct 08 17:31 Hora oficial do Brasil
+"BucketMap with locking stays consistent across threads" time elapsed: 00:00:00
+----------------------------------------------------------
+
+22/75 Testing: HashString is the same for the same call
+22/75 Test: HashString is the same for the same call
+Command: "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/JrCacheTests.exe" "HashString is the same for the same call"
+Directory: C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests
+"HashString is the same for the same call" start time: Oct 08 17:31 Hora oficial do Brasil
+Output:
+----------------------------------------------------------
+Filters: "HashString is the same for the same call"
+Randomness seeded to: 2171726907
+===============================================================================
+All tests passed (3 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"HashString is the same for the same call" end time: Oct 08 17:31 Hora oficial do Brasil
+"HashString is the same for the same call" time elapsed: 00:00:00
+----------------------------------------------------------
+
+23/75 Testing: bucket bulk operations
+23/75 Test: bucket bulk operations
+Command: "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/JrCacheTests.exe" "bucket bulk operations"
+Directory: C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests
+"bucket bulk operations" start time: Oct 08 17:31 Hora oficial do Brasil
+Output:
+----------------------------------------------------------
+Filters: "bucket bulk operations"
+Randomness seeded to: 1574250455
+===============================================================================
+All tests passed (7 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"bucket bulk operations" end time: Oct 08 17:31 Hora oficial do Brasil
+"bucket bulk operations" time elapsed: 00:00:00
+----------------------------------------------------------
+
+24/75 Testing: CacheMap LRU evicts the least recently used key
+24/75 Test: CacheMap LRU evicts the least recently used key
+Command: "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/JrCacheTests.exe" "CacheMap LRU evicts the least recently used key"
+Directory: C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests
+"CacheMap LRU evicts the least recently used key" start time: Oct 08 17:31 Hora oficial do Brasil
+Output:
+----------------------------------------------------------
+Filters: "CacheMap LRU evicts the least recently used key"
+Randomness seeded to: 1408743760
+===============================================================================
+All tests passed (15 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"CacheMap LRU evicts the least recently used key" end time: Oct 08 17:31 Hora oficial do Brasil
+"CacheMap LRU evicts the least recently used key" time elapsed: 00:00:00
+----------------------------------------------------------
+
+25/75 Testing: CacheMap ToJson format
+25/75 Test: CacheMap ToJson format
+Command: "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/JrCacheTests.exe" "CacheMap ToJson format"
+Directory: C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests
+"CacheMap ToJson format" start time: Oct 08 17:31 Hora oficial do Brasil
+Output:
+----------------------------------------------------------
+Filters: "CacheMap ToJson format"
+Randomness seeded to: 2177862004
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"CacheMap ToJson format" end time: Oct 08 17:31 Hora oficial do Brasil
+"CacheMap ToJson format" time elapsed: 00:00:00
+----------------------------------------------------------
+
+26/75 Testing: HashString keeps full floating-point precision
+26/75 Test: HashString keeps full floating-point precision
+Command: "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/JrCacheTests.exe" "HashString keeps full floating-point precision"
+Directory: C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests
+"HashString keeps full floating-point precision" start time: Oct 08 17:31 Hora oficial do Brasil
+Output:
+----------------------------------------------------------
+Filters: "HashString keeps full floating-point precision"
+Randomness seeded to: 3519893663
+===============================================================================
+All tests passed (3 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"HashString keeps full floating-point precision" end time: Oct 08 17:31 Hora oficial do Brasil
+"HashString keeps full floating-point precision" time elapsed: 00:00:00
+----------------------------------------------------------
+
+27/75 Testing: BucketMap removals drop buckets once they are empty
+27/75 Test: BucketMap removals drop buckets once they are empty
+Command: "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/JrCacheTests.exe" "BucketMap removals drop buckets once they are empty"
+Directory: C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests
+"BucketMap removals drop buckets once they are empty" start time: Oct 08 17:31 Hora oficial do Brasil
+Output:
+----------------------------------------------------------
+Filters: "BucketMap removals drop buckets once they are empty"
+Randomness seeded to: 3037591490
+===============================================================================
+All tests passed (29 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"BucketMap removals drop buckets once they are empty" end time: Oct 08 17:31 Hora oficial do Brasil
+"BucketMap removals drop buckets once they are empty" time elapsed: 00:00:00
+----------------------------------------------------------
+
+28/75 Testing: BucketMap MoveValue moves a key without copying its value
+28/75 Test: BucketMap MoveValue moves a key without copying its value
+Command: "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/JrCacheTests.exe" "BucketMap MoveValue moves a key without copying its value"
+Directory: C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests
+"BucketMap MoveValue moves a key without copying its value" start time: Oct 08 17:31 Hora oficial do Brasil
+Output:
+----------------------------------------------------------
+Filters: "BucketMap MoveValue moves a key without copying its value"
+Randomness seeded to: 2528777313
+===============================================================================
+All tests passed (15 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"BucketMap MoveValue moves a key without copying its value" end time: Oct 08 17:31 Hora oficial do Brasil
+"BucketMap MoveValue moves a key without copying its value" time elapsed: 00:00:00
+----------------------------------------------------------
+
+29/75 Testing: ShardedMap spreads keys that share a common factor
+29/75 Test: ShardedMap spreads keys that share a common factor
+Command: "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/JrCacheTests.exe" "ShardedMap spreads keys that share a common factor"
+Directory: C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests
+"ShardedMap spreads keys that share a common factor" start time: Oct 08 17:31 Hora oficial do Brasil
+Output:
+----------------------------------------------------------
+Filters: "ShardedMap spreads keys that share a common factor"
+Randomness seeded to: 2848007422
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ShardedMap spreads keys that share a common factor" end time: Oct 08 17:31 Hora oficial do Brasil
+"ShardedMap spreads keys that share a common factor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+30/75 Testing: BucketMap LowestIndex and HighestIndex track non-empty buckets
+30/75 Test: BucketMap LowestIndex and HighestIndex track non-empty buckets
+Command: "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/JrCacheTests.exe" "BucketMap LowestIndex and HighestIndex track non-empty buckets"
+Directory: C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests
+"BucketMap LowestIndex and HighestIndex track non-empty buckets" start time: Oct 08 17:31 Hora oficial do Brasil
+Output:
+----------------------------------------------------------
+Filters: "BucketMap LowestIndex and HighestIndex track non-empty buckets"
+Randomness seeded to: 901434267
+===============================================================================
+All tests passed (6 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"BucketMap LowestIndex and HighestIndex track non-empty buckets" end time: Oct 08 17:31 Hora oficial do Brasil
+"BucketMap LowestIndex and HighestIndex track non-empty buckets" time elapsed: 00:00:00
+----------------------------------------------------------
+
+31/75 Testing: LinkedList updating a key does not change the size
+31/75 Test: LinkedList updating a key does not change the size
+Command: "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/JrCacheTests.exe" "LinkedList updating a key does not change the size"
+Directory: C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests
+"LinkedList updating a key does not change the size" start time: Oct 08 17:31 Hora oficial do Brasil
+Output:
+----------------------------------------------------------
+Filters: "LinkedList updating a key does not change the size"
+Randomness seeded to: 3790641851
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"LinkedList updating a key does not change the size" end time: Oct 08 17:31 Hora oficial do Brasil
+"LinkedList updating a key does not change the size" time elapsed: 00:00:00
+----------------------------------------------------------
+
+32/75 Testing: HashString does not merge neighbouring arguments
+32/75 Test: HashString does not merge neighbouring arguments
+Command: "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/JrCacheTests.exe" "HashString does not merge neighbouring arguments"
+Directory: C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests
+"HashString does not merge neighbouring arguments" start time: Oct 08 17:31 Hora oficial do Brasil
+Output:
+----------------------------------------------------------
+Filters: "HashString does not merge neighbouring arguments"
+Randomness seeded to: 2550047517
+===============================================================================
+All tests passed (4 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"HashString does not merge neighbouring arguments" end time: Oct 08 17:31 Hora oficial do Brasil
+"HashString does not merge neighbouring arguments" time elapsed: 00:00:00
+----------------------------------------------------------
+
+33/75 Testing: CacheMap rejects a capacity of zero
+33/75 Test: CacheMap rejects a capacity of zero
+Command: "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/JrCacheTests.exe" "CacheMap rejects a capacity of zero"
+Directory: C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests
+"CacheMap rejects a capacity of zero" start time: Oct 08 17:31 Hora oficial do Brasil
+Output:
+----------------------------------------------------------
+Filters: "CacheMap rejects a capacity of zero"
+Randomness seeded to: 621928909
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"CacheMap rejects a capacity of zero" end time: Oct 08 17:31 Hora oficial do Brasil
+"CacheMap rejects a capacity of zero" time elapsed: 00:00:00
+----------------------------------------------------------
+
+34/75 Testing: ShardedMap basic operations work under every policy
+34/75 Test: ShardedMap basic operations work under every policy
+Command: "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/JrCacheTests.exe" "ShardedMap basic operations work under every policy"
+Directory: C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests
+"ShardedMap basic operations work under every policy" start time: Oct 08 17:31 Hora oficial do Brasil
+Output:
+----------------------------------------------------------
+Filters: "ShardedMap basic operations work under every policy"
+Randomness seeded to: 2158251337
+===============================================================================
+All tests passed (984 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ShardedMap basic operations work under every policy" end time: Oct 08 17:31 Hora oficial do Brasil
+"ShardedMap basic operations work under every policy" time elapsed: 00:00:00
+----------------------------------------------------------
+
+35/75 Testing: CacheMap LFU evicts the least frequently used key
+35/75 Test: CacheMap LFU evicts the least frequently used key
+Command: "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/JrCacheTests.exe" "CacheMap LFU evicts the least frequently used key"
+Directory: C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests
+"CacheMap LFU evicts the least frequently used key" start time: Oct 08 17:31 Hora oficial do Brasil
+Output:
+----------------------------------------------------------
+Filters: "CacheMap LFU evicts the least frequently used key"
+Randomness seeded to: 4269446810
+===============================================================================
+All tests passed (7 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"CacheMap LFU evicts the least frequently used key" end time: Oct 08 17:31 Hora oficial do Brasil
+"CacheMap LFU evicts the least frequently used key" time elapsed: 00:00:00
+----------------------------------------------------------
+
+36/75 Testing: BucketMap ToJson and FromJson round-trip
+36/75 Test: BucketMap ToJson and FromJson round-trip
+Command: "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/JrCacheTests.exe" "BucketMap ToJson and FromJson round-trip"
+Directory: C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests
+"BucketMap ToJson and FromJson round-trip" start time: Oct 08 17:31 Hora oficial do Brasil
+Output:
+----------------------------------------------------------
+Filters: "BucketMap ToJson and FromJson round-trip"
+Randomness seeded to: 230390074
+===============================================================================
+All tests passed (23 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"BucketMap ToJson and FromJson round-trip" end time: Oct 08 17:31 Hora oficial do Brasil
+"BucketMap ToJson and FromJson round-trip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+37/75 Testing: CacheMap using Hash Function with Hash
+37/75 Test: CacheMap using Hash Function with Hash
+Command: "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/JrCacheTests.exe" "CacheMap using Hash Function with Hash"
+Directory: C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests
+"CacheMap using Hash Function with Hash" start time: Oct 08 17:31 Hora oficial do Brasil
+Output:
+----------------------------------------------------------
+Filters: "CacheMap using Hash Function with Hash"
+Randomness seeded to: 1594735034
+===============================================================================
+All tests passed (6 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"CacheMap using Hash Function with Hash" end time: Oct 08 17:31 Hora oficial do Brasil
+"CacheMap using Hash Function with Hash" time elapsed: 00:00:00
+----------------------------------------------------------
+
+38/75 Testing: CacheMap FIFO evicts the key inserted longest ago
+38/75 Test: CacheMap FIFO evicts the key inserted longest ago
+Command: "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/JrCacheTests.exe" "CacheMap FIFO evicts the key inserted longest ago"
+Directory: C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests
+"CacheMap FIFO evicts the key inserted longest ago" start time: Oct 08 17:31 Hora oficial do Brasil
+Output:
+----------------------------------------------------------
+Filters: "CacheMap FIFO evicts the key inserted longest ago"
+Randomness seeded to: 340542565
+===============================================================================
+All tests passed (6 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"CacheMap FIFO evicts the key inserted longest ago" end time: Oct 08 17:31 Hora oficial do Brasil
+"CacheMap FIFO evicts the key inserted longest ago" time elapsed: 00:00:00
+----------------------------------------------------------
+
+39/75 Testing: CacheMap GetPtr and Visit count as uses
+39/75 Test: CacheMap GetPtr and Visit count as uses
+Command: "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/JrCacheTests.exe" "CacheMap GetPtr and Visit count as uses"
+Directory: C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests
+"CacheMap GetPtr and Visit count as uses" start time: Oct 08 17:31 Hora oficial do Brasil
+Output:
+----------------------------------------------------------
+Filters: "CacheMap GetPtr and Visit count as uses"
+Randomness seeded to: 1165946544
+===============================================================================
+All tests passed (3 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"CacheMap GetPtr and Visit count as uses" end time: Oct 08 17:31 Hora oficial do Brasil
+"CacheMap GetPtr and Visit count as uses" time elapsed: 00:00:00
+----------------------------------------------------------
+
+40/75 Testing: CacheMap serializes user and standard types
+40/75 Test: CacheMap serializes user and standard types
+Command: "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/JrCacheTests.exe" "CacheMap serializes user and standard types"
+Directory: C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests
+"CacheMap serializes user and standard types" start time: Oct 08 17:31 Hora oficial do Brasil
+Output:
+----------------------------------------------------------
+Filters: "CacheMap serializes user and standard types"
+Randomness seeded to: 3647617100
+===============================================================================
+All tests passed (4 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"CacheMap serializes user and standard types" end time: Oct 08 17:31 Hora oficial do Brasil
+"CacheMap serializes user and standard types" time elapsed: 00:00:00
+----------------------------------------------------------
+
+41/75 Testing: LinkedList with one element has the same top and bottom
+41/75 Test: LinkedList with one element has the same top and bottom
+Command: "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/JrCacheTests.exe" "LinkedList with one element has the same top and bottom"
+Directory: C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests
+"LinkedList with one element has the same top and bottom" start time: Oct 08 17:31 Hora oficial do Brasil
+Output:
+----------------------------------------------------------
+Filters: "LinkedList with one element has the same top and bottom"
+Randomness seeded to: 1063248048
+===============================================================================
+All tests passed (27 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"LinkedList with one element has the same top and bottom" end time: Oct 08 17:31 Hora oficial do Brasil
+"LinkedList with one element has the same top and bottom" time elapsed: 00:00:00
+----------------------------------------------------------
+
+42/75 Testing: LinkedList SetTop and SetBottom place new keys at the ends
+42/75 Test: LinkedList SetTop and SetBottom place new keys at the ends
+Command: "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/JrCacheTests.exe" "LinkedList SetTop and SetBottom place new keys at the ends"
+Directory: C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests
+"LinkedList SetTop and SetBottom place new keys at the ends" start time: Oct 08 17:31 Hora oficial do Brasil
+Output:
+----------------------------------------------------------
+Filters: "LinkedList SetTop and SetBottom place new keys at the ends"
+Randomness seeded to: 1559774231
+===============================================================================
+All tests passed (4 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"LinkedList SetTop and SetBottom place new keys at the ends" end time: Oct 08 17:31 Hora oficial do Brasil
+"LinkedList SetTop and SetBottom place new keys at the ends" time elapsed: 00:00:00
+----------------------------------------------------------
+
+43/75 Testing: CacheMap GetPtr returns the cached value itself
+43/75 Test: CacheMap GetPtr returns the cached value itself
+Command: "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/JrCacheTests.exe" "CacheMap GetPtr returns the cached value itself"
+Directory: C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests
+"CacheMap GetPtr returns the cached value itself" start time: Oct 08 17:31 Hora oficial do Brasil
+Output:
+----------------------------------------------------------
+Filters: "CacheMap GetPtr returns the cached value itself"
+Randomness seeded to: 1342969839
+===============================================================================
+All tests passed (36 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"CacheMap GetPtr returns the cached value itself" end time: Oct 08 17:31 Hora oficial do Brasil
+"CacheMap GetPtr returns the cached value itself" time elapsed: 00:00:00
+----------------------------------------------------------
+
+44/75 Testing: BucketMap starts empty
+44/75 Test: BucketMap starts empty
+Command: "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/JrCacheTests.exe" "BucketMap starts empty"
+Directory: C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests
+"BucketMap starts empty" start time: Oct 08 17:31 Hora oficial do Brasil
+Output:
+----------------------------------------------------------
+Filters: "BucketMap starts empty"
+Randomness seeded to: 3398668580
+===============================================================================
+All tests passed (3 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"BucketMap starts empty" end time: Oct 08 17:31 Hora oficial do Brasil
+"BucketMap starts empty" time elapsed: 00:00:00
+----------------------------------------------------------
+
+45/75 Testing: CacheMap with capacity one keeps only the latest key
+45/75 Test: CacheMap with capacity one keeps only the latest key
+Command: "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/JrCacheTests.exe" "CacheMap with capacity one keeps only the latest key"
+Directory: C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests
+"CacheMap with capacity one keeps only the latest key" start time: Oct 08 17:31 Hora oficial do Brasil
+Output:
+----------------------------------------------------------
+Filters: "CacheMap with capacity one keeps only the latest key"
+Randomness seeded to: 955661213
+===============================================================================
+All tests passed (18 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"CacheMap with capacity one keeps only the latest key" end time: Oct 08 17:31 Hora oficial do Brasil
+"CacheMap with capacity one keeps only the latest key" time elapsed: 00:00:00
+----------------------------------------------------------
+
+46/75 Testing: HashString tells different calls apart
+46/75 Test: HashString tells different calls apart
+Command: "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/JrCacheTests.exe" "HashString tells different calls apart"
+Directory: C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests
+"HashString tells different calls apart" start time: Oct 08 17:31 Hora oficial do Brasil
+Output:
+----------------------------------------------------------
+Filters: "HashString tells different calls apart"
+Randomness seeded to: 3868814010
+===============================================================================
+All tests passed (4 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"HashString tells different calls apart" end time: Oct 08 17:31 Hora oficial do Brasil
+"HashString tells different calls apart" time elapsed: 00:00:00
+----------------------------------------------------------
+
+47/75 Testing: LinkedList SetBatchTop acts like SetTop for each item in order
+47/75 Test: LinkedList SetBatchTop acts like SetTop for each item in order
+Command: "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/JrCacheTests.exe" "LinkedList SetBatchTop acts like SetTop for each item in order"
+Directory: C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests
+"LinkedList SetBatchTop acts like SetTop for each item in order" start time: Oct 08 17:31 Hora oficial do Brasil
+Output:
+----------------------------------------------------------
+Filters: "LinkedList SetBatchTop acts like SetTop for each item in order"
+Randomness seeded to: 3583107156
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"LinkedList SetBatchTop acts like SetTop for each item in order" end time: Oct 08 17:31 Hora oficial do Brasil
+"LinkedList SetBatchTop acts like SetTop for each item in order" time elapsed: 00:00:00
+----------------------------------------------------------
+
+48/75 Testing: LinkedList without locking behaves the same
+48/75 Test: LinkedList without locking behaves the same
+Command: "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/JrCacheTests.exe" "LinkedList without locking behaves the same"
+Directory: C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests
+"LinkedList without locking behaves the same" start time: Oct 08 17:31 Hora oficial do Brasil
+Output:
+----------------------------------------------------------
+Filters: "LinkedList without locking behaves the same"
+Randomness seeded to: 1634653550
+===============================================================================
+All tests passed (4 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"LinkedList without locking behaves the same" end time: Oct 08 17:31 Hora oficial do Brasil
+"LinkedList without locking behaves the same" time elapsed: 00:00:00
+----------------------------------------------------------
+
+49/75 Testing: ShardedMap GetPtr and Visit reach the cached value
+49/75 Test: ShardedMap GetPtr and Visit reach the cached value
+Command: "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/JrCacheTests.exe" "ShardedMap GetPtr and Visit reach the cached value"
+Directory: C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests
+"ShardedMap GetPtr and Visit reach the cached value" start time: Oct 08 17:31 Hora oficial do Brasil
+Output:
+----------------------------------------------------------
+Filters: "ShardedMap GetPtr and Visit reach the cached value"
+Randomness seeded to: 1172240683
+===============================================================================
+All tests passed (6 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ShardedMap GetPtr and Visit reach the cached value" end time: Oct 08 17:31 Hora oficial do Brasil
+"ShardedMap GetPtr and Visit reach the cached value" time elapsed: 00:00:00
+----------------------------------------------------------
+
+50/75 Testing: ShardedMap with one shard behaves like a CacheMap
+50/75 Test: ShardedMap with one shard behaves like a CacheMap
+Command: "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/JrCacheTests.exe" "ShardedMap with one shard behaves like a CacheMap"
+Directory: C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests
+"ShardedMap with one shard behaves like a CacheMap" start time: Oct 08 17:31 Hora oficial do Brasil
+Output:
+----------------------------------------------------------
+Filters: "ShardedMap with one shard behaves like a CacheMap"
+Randomness seeded to: 3859440632
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ShardedMap with one shard behaves like a CacheMap" end time: Oct 08 17:31 Hora oficial do Brasil
+"ShardedMap with one shard behaves like a CacheMap" time elapsed: 00:00:00
+----------------------------------------------------------
+
+51/75 Testing: CacheMap Visit is safe across threads
+51/75 Test: CacheMap Visit is safe across threads
+Command: "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/JrCacheTests.exe" "CacheMap Visit is safe across threads"
+Directory: C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests
+"CacheMap Visit is safe across threads" start time: Oct 08 17:31 Hora oficial do Brasil
+Output:
+----------------------------------------------------------
+Filters: "CacheMap Visit is safe across threads"
+Randomness seeded to: 1794636925
+===============================================================================
+All tests passed (4 assertions in 1 test case)
+
+<end of output>
+Test time =   0.09 sec
+----------------------------------------------------------
+Test Passed.
+"CacheMap Visit is safe across threads" end time: Oct 08 17:31 Hora oficial do Brasil
+"CacheMap Visit is safe across threads" time elapsed: 00:00:00
+----------------------------------------------------------
+
+52/75 Testing: EvictionPolicy converts to and from its name
+52/75 Test: EvictionPolicy converts to and from its name
+Command: "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/JrCacheTests.exe" "EvictionPolicy converts to and from its name"
+Directory: C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests
+"EvictionPolicy converts to and from its name" start time: Oct 08 17:31 Hora oficial do Brasil
+Output:
+----------------------------------------------------------
+Filters: "EvictionPolicy converts to and from its name"
+Randomness seeded to: 1440010697
+===============================================================================
+All tests passed (14 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"EvictionPolicy converts to and from its name" end time: Oct 08 17:31 Hora oficial do Brasil
+"EvictionPolicy converts to and from its name" time elapsed: 00:00:00
+----------------------------------------------------------
+
+53/75 Testing: LinkedList ignores null values
+53/75 Test: LinkedList ignores null values
+Command: "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/JrCacheTests.exe" "LinkedList ignores null values"
+Directory: C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests
+"LinkedList ignores null values" start time: Oct 08 17:31 Hora oficial do Brasil
+Output:
+----------------------------------------------------------
+Filters: "LinkedList ignores null values"
+Randomness seeded to: 2232204489
+===============================================================================
+All tests passed (4 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"LinkedList ignores null values" end time: Oct 08 17:31 Hora oficial do Brasil
+"LinkedList ignores null values" time elapsed: 00:00:00
+----------------------------------------------------------
+
+54/75 Testing: LinkedList removes nodes and hands back the value pointer
+54/75 Test: LinkedList removes nodes and hands back the value pointer
+Command: "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/JrCacheTests.exe" "LinkedList removes nodes and hands back the value pointer"
+Directory: C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests
+"LinkedList removes nodes and hands back the value pointer" start time: Oct 08 17:31 Hora oficial do Brasil
+Output:
+----------------------------------------------------------
+Filters: "LinkedList removes nodes and hands back the value pointer"
+Randomness seeded to: 4221142315
+===============================================================================
+All tests passed (12 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"LinkedList removes nodes and hands back the value pointer" end time: Oct 08 17:31 Hora oficial do Brasil
+"LinkedList removes nodes and hands back the value pointer" time elapsed: 00:00:00
+----------------------------------------------------------
+
+55/75 Testing: LinkedList with locking stays consistent across threads
+55/75 Test: LinkedList with locking stays consistent across threads
+Command: "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/JrCacheTests.exe" "LinkedList with locking stays consistent across threads"
+Directory: C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests
+"LinkedList with locking stays consistent across threads" start time: Oct 08 17:31 Hora oficial do Brasil
+Output:
+----------------------------------------------------------
+Filters: "LinkedList with locking stays consistent across threads"
+Randomness seeded to: 4288367112
+===============================================================================
+All tests passed (3 assertions in 1 test case)
+
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"LinkedList with locking stays consistent across threads" end time: Oct 08 17:31 Hora oficial do Brasil
+"LinkedList with locking stays consistent across threads" time elapsed: 00:00:00
+----------------------------------------------------------
+
+56/75 Testing: BucketMap PutValue overwrites an existing key
+56/75 Test: BucketMap PutValue overwrites an existing key
+Command: "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/JrCacheTests.exe" "BucketMap PutValue overwrites an existing key"
+Directory: C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests
+"BucketMap PutValue overwrites an existing key" start time: Oct 08 17:31 Hora oficial do Brasil
+Output:
+----------------------------------------------------------
+Filters: "BucketMap PutValue overwrites an existing key"
+Randomness seeded to: 1726837802
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"BucketMap PutValue overwrites an existing key" end time: Oct 08 17:31 Hora oficial do Brasil
+"BucketMap PutValue overwrites an existing key" time elapsed: 00:00:00
+----------------------------------------------------------
+
+57/75 Testing: LinkedList Clear empties the list and it can be reused
+57/75 Test: LinkedList Clear empties the list and it can be reused
+Command: "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/JrCacheTests.exe" "LinkedList Clear empties the list and it can be reused"
+Directory: C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests
+"LinkedList Clear empties the list and it can be reused" start time: Oct 08 17:31 Hora oficial do Brasil
+Output:
+----------------------------------------------------------
+Filters: "LinkedList Clear empties the list and it can be reused"
+Randomness seeded to: 65078811
+===============================================================================
+All tests passed (5 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"LinkedList Clear empties the list and it can be reused" end time: Oct 08 17:31 Hora oficial do Brasil
+"LinkedList Clear empties the list and it can be reused" time elapsed: 00:00:00
+----------------------------------------------------------
+
+58/75 Testing: ShardedMap stays consistent across threads
+58/75 Test: ShardedMap stays consistent across threads
+Command: "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/JrCacheTests.exe" "ShardedMap stays consistent across threads"
+Directory: C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests
+"ShardedMap stays consistent across threads" start time: Oct 08 17:31 Hora oficial do Brasil
+Output:
+----------------------------------------------------------
+Filters: "ShardedMap stays consistent across threads"
+Randomness seeded to: 3565672207
+===============================================================================
+All tests passed (130 assertions in 1 test case)
+
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"ShardedMap stays consistent across threads" end time: Oct 08 17:31 Hora oficial do Brasil
+"ShardedMap stays consistent across threads" time elapsed: 00:00:00
+----------------------------------------------------------
+
+59/75 Testing: ShardedMap never holds more than its total capacity
+59/75 Test: ShardedMap never holds more than its total capacity
+Command: "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/JrCacheTests.exe" "ShardedMap never holds more than its total capacity"
+Directory: C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests
+"ShardedMap never holds more than its total capacity" start time: Oct 08 17:31 Hora oficial do Brasil
+Output:
+----------------------------------------------------------
+Filters: "ShardedMap never holds more than its total capacity"
+Randomness seeded to: 3098599260
+===============================================================================
+All tests passed (1981 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ShardedMap never holds more than its total capacity" end time: Oct 08 17:31 Hora oficial do Brasil
+"ShardedMap never holds more than its total capacity" time elapsed: 00:00:00
+----------------------------------------------------------
+
+60/75 Testing: bucket stores, overwrites and removes values
+60/75 Test: bucket stores, overwrites and removes values
+Command: "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/JrCacheTests.exe" "bucket stores\, overwrites and removes values"
+Directory: C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests
+"bucket stores, overwrites and removes values" start time: Oct 08 17:31 Hora oficial do Brasil
+Output:
+----------------------------------------------------------
+Filters: "bucket stores\, overwrites and removes values"
+Randomness seeded to: 3143397274
+===============================================================================
+All tests passed (10 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"bucket stores, overwrites and removes values" end time: Oct 08 17:31 Hora oficial do Brasil
+"bucket stores, overwrites and removes values" time elapsed: 00:00:00
+----------------------------------------------------------
+
+61/75 Testing: LinkedList GetBatch returns a result per key
+61/75 Test: LinkedList GetBatch returns a result per key
+Command: "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/JrCacheTests.exe" "LinkedList GetBatch returns a result per key"
+Directory: C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests
+"LinkedList GetBatch returns a result per key" start time: Oct 08 17:31 Hora oficial do Brasil
+Output:
+----------------------------------------------------------
+Filters: "LinkedList GetBatch returns a result per key"
+Randomness seeded to: 2632933198
+===============================================================================
+All tests passed (5 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"LinkedList GetBatch returns a result per key" end time: Oct 08 17:31 Hora oficial do Brasil
+"LinkedList GetBatch returns a result per key" time elapsed: 00:00:00
+----------------------------------------------------------
+
+62/75 Testing: bucket GetAny returns one of the stored items
+62/75 Test: bucket GetAny returns one of the stored items
+Command: "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/JrCacheTests.exe" "bucket GetAny returns one of the stored items"
+Directory: C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests
+"bucket GetAny returns one of the stored items" start time: Oct 08 17:31 Hora oficial do Brasil
+Output:
+----------------------------------------------------------
+Filters: "bucket GetAny returns one of the stored items"
+Randomness seeded to: 121278228
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"bucket GetAny returns one of the stored items" end time: Oct 08 17:31 Hora oficial do Brasil
+"bucket GetAny returns one of the stored items" time elapsed: 00:00:00
+----------------------------------------------------------
+
+63/75 Testing: BucketMap PutBatch
+63/75 Test: BucketMap PutBatch
+Command: "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/JrCacheTests.exe" "BucketMap PutBatch"
+Directory: C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests
+"BucketMap PutBatch" start time: Oct 08 17:31 Hora oficial do Brasil
+Output:
+----------------------------------------------------------
+Filters: "BucketMap PutBatch"
+Randomness seeded to: 1886701761
+===============================================================================
+All tests passed (4 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"BucketMap PutBatch" end time: Oct 08 17:31 Hora oficial do Brasil
+"BucketMap PutBatch" time elapsed: 00:00:00
+----------------------------------------------------------
+
+64/75 Testing: CacheMap reports its settings
+64/75 Test: CacheMap reports its settings
+Command: "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/JrCacheTests.exe" "CacheMap reports its settings"
+Directory: C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests
+"CacheMap reports its settings" start time: Oct 08 17:31 Hora oficial do Brasil
+Output:
+----------------------------------------------------------
+Filters: "CacheMap reports its settings"
+Randomness seeded to: 3801212172
+===============================================================================
+All tests passed (3 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"CacheMap reports its settings" end time: Oct 08 17:31 Hora oficial do Brasil
+"CacheMap reports its settings" time elapsed: 00:00:00
+----------------------------------------------------------
+
+65/75 Testing: ShardedMap rejects zero shards or zero capacity
+65/75 Test: ShardedMap rejects zero shards or zero capacity
+Command: "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/JrCacheTests.exe" "ShardedMap rejects zero shards or zero capacity"
+Directory: C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests
+"ShardedMap rejects zero shards or zero capacity" start time: Oct 08 17:31 Hora oficial do Brasil
+Output:
+----------------------------------------------------------
+Filters: "ShardedMap rejects zero shards or zero capacity"
+Randomness seeded to: 3441923557
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ShardedMap rejects zero shards or zero capacity" end time: Oct 08 17:31 Hora oficial do Brasil
+"ShardedMap rejects zero shards or zero capacity" time elapsed: 00:00:00
+----------------------------------------------------------
+
+66/75 Testing: Caches of non-serializable values still work
+66/75 Test: Caches of non-serializable values still work
+Command: "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/JrCacheTests.exe" "Caches of non-serializable values still work"
+Directory: C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests
+"Caches of non-serializable values still work" start time: Oct 08 17:31 Hora oficial do Brasil
+Output:
+----------------------------------------------------------
+Filters: "Caches of non-serializable values still work"
+Randomness seeded to: 3502819332
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Caches of non-serializable values still work" end time: Oct 08 17:31 Hora oficial do Brasil
+"Caches of non-serializable values still work" time elapsed: 00:00:00
+----------------------------------------------------------
+
+67/75 Testing: CacheMap Visit runs on the cached value
+67/75 Test: CacheMap Visit runs on the cached value
+Command: "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/JrCacheTests.exe" "CacheMap Visit runs on the cached value"
+Directory: C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests
+"CacheMap Visit runs on the cached value" start time: Oct 08 17:31 Hora oficial do Brasil
+Output:
+----------------------------------------------------------
+Filters: "CacheMap Visit runs on the cached value"
+Randomness seeded to: 1279694201
+===============================================================================
+All tests passed (15 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"CacheMap Visit runs on the cached value" end time: Oct 08 17:31 Hora oficial do Brasil
+"CacheMap Visit runs on the cached value" time elapsed: 00:00:00
+----------------------------------------------------------
+
+68/75 Testing: LinkedList FromJson stores values through the callback
+68/75 Test: LinkedList FromJson stores values through the callback
+Command: "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/JrCacheTests.exe" "LinkedList FromJson stores values through the callback"
+Directory: C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests
+"LinkedList FromJson stores values through the callback" start time: Oct 08 17:31 Hora oficial do Brasil
+Output:
+----------------------------------------------------------
+Filters: "LinkedList FromJson stores values through the callback"
+Randomness seeded to: 245937242
+===============================================================================
+All tests passed (10 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"LinkedList FromJson stores values through the callback" end time: Oct 08 17:31 Hora oficial do Brasil
+"LinkedList FromJson stores values through the callback" time elapsed: 00:00:00
+----------------------------------------------------------
+
+69/75 Testing: BucketMap keeps buckets separate
+69/75 Test: BucketMap keeps buckets separate
+Command: "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/JrCacheTests.exe" "BucketMap keeps buckets separate"
+Directory: C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests
+"BucketMap keeps buckets separate" start time: Oct 08 17:31 Hora oficial do Brasil
+Output:
+----------------------------------------------------------
+Filters: "BucketMap keeps buckets separate"
+Randomness seeded to: 2813149670
+===============================================================================
+All tests passed (6 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"BucketMap keeps buckets separate" end time: Oct 08 17:31 Hora oficial do Brasil
+"BucketMap keeps buckets separate" time elapsed: 00:00:00
+----------------------------------------------------------
+
+70/75 Testing: CacheMap MRU evicts the most recently used key
+70/75 Test: CacheMap MRU evicts the most recently used key
+Command: "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/JrCacheTests.exe" "CacheMap MRU evicts the most recently used key"
+Directory: C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests
+"CacheMap MRU evicts the most recently used key" start time: Oct 08 17:31 Hora oficial do Brasil
+Output:
+----------------------------------------------------------
+Filters: "CacheMap MRU evicts the most recently used key"
+Randomness seeded to: 2801732120
+===============================================================================
+All tests passed (12 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"CacheMap MRU evicts the most recently used key" end time: Oct 08 17:31 Hora oficial do Brasil
+"CacheMap MRU evicts the most recently used key" time elapsed: 00:00:00
+----------------------------------------------------------
+
+71/75 Testing: BucketMap GetAny returns a value from the requested bucket
+71/75 Test: BucketMap GetAny returns a value from the requested bucket
+Command: "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/JrCacheTests.exe" "BucketMap GetAny returns a value from the requested bucket"
+Directory: C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests
+"BucketMap GetAny returns a value from the requested bucket" start time: Oct 08 17:31 Hora oficial do Brasil
+Output:
+----------------------------------------------------------
+Filters: "BucketMap GetAny returns a value from the requested bucket"
+Randomness seeded to: 2678381494
+===============================================================================
+All tests passed (4 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"BucketMap GetAny returns a value from the requested bucket" end time: Oct 08 17:31 Hora oficial do Brasil
+"BucketMap GetAny returns a value from the requested bucket" time elapsed: 00:00:00
+----------------------------------------------------------
+
+72/75 Testing: LinkedList ToJson lists items from top to bottom
+72/75 Test: LinkedList ToJson lists items from top to bottom
+Command: "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/JrCacheTests.exe" "LinkedList ToJson lists items from top to bottom"
+Directory: C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests
+"LinkedList ToJson lists items from top to bottom" start time: Oct 08 17:31 Hora oficial do Brasil
+Output:
+----------------------------------------------------------
+Filters: "LinkedList ToJson lists items from top to bottom"
+Randomness seeded to: 1232510041
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"LinkedList ToJson lists items from top to bottom" end time: Oct 08 17:31 Hora oficial do Brasil
+"LinkedList ToJson lists items from top to bottom" time elapsed: 00:00:00
+----------------------------------------------------------
+
+73/75 Testing: LinkedList RemoveBatch returns only the removed values
+73/75 Test: LinkedList RemoveBatch returns only the removed values
+Command: "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/JrCacheTests.exe" "LinkedList RemoveBatch returns only the removed values"
+Directory: C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests
+"LinkedList RemoveBatch returns only the removed values" start time: Oct 08 17:31 Hora oficial do Brasil
+Output:
+----------------------------------------------------------
+Filters: "LinkedList RemoveBatch returns only the removed values"
+Randomness seeded to: 4021933421
+===============================================================================
+All tests passed (3 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"LinkedList RemoveBatch returns only the removed values" end time: Oct 08 17:31 Hora oficial do Brasil
+"LinkedList RemoveBatch returns only the removed values" time elapsed: 00:00:00
+----------------------------------------------------------
+
+74/75 Testing: Hash is the same for the same call and differs otherwise
+74/75 Test: Hash is the same for the same call and differs otherwise
+Command: "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/JrCacheTests.exe" "Hash is the same for the same call and differs otherwise"
+Directory: C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests
+"Hash is the same for the same call and differs otherwise" start time: Oct 08 17:31 Hora oficial do Brasil
+Output:
+----------------------------------------------------------
+Filters: "Hash is the same for the same call and differs otherwise"
+Randomness seeded to: 2728213781
+===============================================================================
+All tests passed (4 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Hash is the same for the same call and differs otherwise" end time: Oct 08 17:31 Hora oficial do Brasil
+"Hash is the same for the same call and differs otherwise" time elapsed: 00:00:00
+----------------------------------------------------------
+
+75/75 Testing: bucket starts empty
+75/75 Test: bucket starts empty
+Command: "C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests/JrCacheTests.exe" "bucket starts empty"
+Directory: C:/Users/Agnal/Documents/Coding/C++/jr_cache/build/debug/tests
+"bucket starts empty" start time: Oct 08 17:31 Hora oficial do Brasil
+Output:
+----------------------------------------------------------
+Filters: "bucket starts empty"
+Randomness seeded to: 930827106
+===============================================================================
+All tests passed (6 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"bucket starts empty" end time: Oct 08 17:31 Hora oficial do Brasil
+"bucket starts empty" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 08 17:31 Hora oficial do Brasil

@@ -1,0 +1,18 @@
+# clangd configuration: https://clangd.llvm.org/config
+# compile_commands.json is produced by `cmake --preset debug`.
+CompileFlags:
+  CompilationDatabase: build/debug
+  # Fallback for headers with no compile_commands.json entry (CMake has no targets yet).
+  Add: [-std=c++20]
+
+Diagnostics:
+  UnusedIncludes: Strict
+  MissingIncludes: Strict
+
+InlayHints:
+  Enabled: true
+  ParameterNames: true
+  DeducedTypes: true
+
+Index:
+  Background: Build
